@@ -1,0 +1,1 @@
+A lightweight FastAPI service for batch creating and managing to-do tasks. It accepts a JSON array of task objects, auto-assigns unique IDs, and stores them in memory. Built with Pydantic for schema validation and header-based token authentication. Easily extensible to persistent databases, background processing, and advanced filtering.
